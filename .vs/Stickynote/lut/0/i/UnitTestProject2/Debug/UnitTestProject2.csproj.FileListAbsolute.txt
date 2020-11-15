@@ -1,0 +1,9 @@
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\b\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\b\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\b\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\b\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\b\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.csproj.CopyComplete
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.dll
+E:\Sajak ko\Sajak\projects\Finalassignmentsql\Stickynote\.vs\Stickynote\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.pdb

@@ -1,0 +1,21 @@
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\bin\Debug\testing.dll
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\bin\Debug\testing.pdb
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\bin\Debug\WindowsFormsApp3.exe
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\obj\Debug\testing.dll
+C:\Users\PRABIN\Documents\Desktop\ddocp\Stickynote\testing\obj\Debug\testing.pdb
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\bin\Debug\testing.dll
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\bin\Debug\testing.pdb
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\obj\Debug\testing.dll
+C:\Users\ME\Desktop\Assignment\anxiety ddocp - Copy\Stickynote\testing\obj\Debug\testing.pdb
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\bin\Debug\testing.dll
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\bin\Debug\testing.pdb
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\obj\Debug\testing.dll
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\testing\obj\Debug\testing.pdb

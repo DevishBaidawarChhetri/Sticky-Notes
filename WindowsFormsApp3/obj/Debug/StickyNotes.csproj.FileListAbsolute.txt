@@ -1,0 +1,35 @@
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\StickyNotes.csprojResolveAssemblyReference.cache
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_categories_add.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_dashboard.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_help.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_login.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_main.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pie_chart.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_notes.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_register.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_user_type.resources
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\StickyNotes.csproj.GenerateResource.Cache
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ME\Desktop\Assignment\DDOOCP\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_categories_add.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_dashboard.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_help.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_login.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_main.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pie_chart.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_notes.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_register.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frm_user_type.resources
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\StickyNotes.csproj.GenerateResource.Cache
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\StickyNotes.csprojAssemblyReference.cache
+E:\Devish\Softwarica\Second Semester\DDOOCP\Assignments\Assignment Final\Program\Stickynote\WindowsFormsApp3\obj\Debug\StickyNotes.csproj.CoreCompileInputs.cache
